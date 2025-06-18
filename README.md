@@ -96,22 +96,6 @@ SHAP values were used to interpret the final model:
 
 SHAP visualizations helped make the model interpretable and explain decisions to stakeholders.
 
-## **📂 Repository Structure**
-
-├── data/
-│   └── seoul_bike_rentals.csv
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-│   └── model_building.ipynb
-├── src/
-│   └── preprocessing.py
-│   └── model_utils.py
-├── main.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
 ### **🛠 Tools & Libraries Used**
 - Python 3.x
 
