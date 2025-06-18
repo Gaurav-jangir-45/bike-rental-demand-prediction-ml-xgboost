@@ -17,13 +17,13 @@ The objective is to build an end-to-end machine learning pipeline that:
 
 - **Dataset Name:** Seoul Bike Sharing Demand
 - **Total Rows:** 8,760
-- **Total Columns:** 24
+- **Total Columns:** 14
 - **Target Variable:** `Rented_Bike_Count`
 - **Features Include:**
   - Temperature, Humidity, Wind Speed, Rainfall, Snowfall
   - Solar Radiation, Visibility
   - Seasons, Holiday, Functioning Day
-  - Hour, Date, and derived time features (Month, Day, Weekday)
+  - Hour, Date, and derived time features
 
 ---
 
